@@ -4,6 +4,7 @@ curl -fsSL https://raw.githubusercontent.com/co2f2e/onekey-ops/master/server_ini
 sudo python3 server_init.py
 ```
 * Feature
+
 | 序号 | 功能 |
 |------|------|
 | 1    | 修改 SSH 端口 |
