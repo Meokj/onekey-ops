@@ -3,7 +3,7 @@
 ## 使用方式
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/Meokj/onekey-ops/master/server_init.py | sudo python3
+curl -fsSL https://raw.githubusercontent.com/Meokj/onekey-ops/master/server_init.py | python3
 ```
 ## 功能
 
